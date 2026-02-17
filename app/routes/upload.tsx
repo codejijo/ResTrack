@@ -6,7 +6,9 @@ const Upload = () => {
 
             <NavBar />
 
-            <section className="main-section"></section>
+            <section className="main-section">
+                <div className="page-deafing"> </div>
+            </section>
         </main>
     )
 }
